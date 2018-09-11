@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+}
+p{
+    color:purple;
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    border-style: solid;
+    border-color: mediumspringgreen;
+}
+li{
+    border-style: ridge;
+    border-color: deeppink;
+    display: inline;
+}
